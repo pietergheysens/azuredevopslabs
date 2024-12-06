@@ -187,7 +187,7 @@ This task is designed to illustrate a variety of ways you can create different k
 Azure Boards comes with filtering capabilities. With filter functions, you can interactively apply one or more filters to an Azure Boards tool.  Filter functions available in Work items, Boards, Backlogs, Sprint Backlogs and Taskboards, Queries, and Delivery Plans. In this exercise, you will see the filters in the boards and backlogs.
 
 1. Navigate to the **Backlog Items** view. 
-1. Choose Filter ![](images/filter-icon.png) Or, enter the **Ctrl+Shift+f** keyboard shortcut.
+1. Choose Filter ![](images/filter-icon.png) Or, enter the **Ctrl+Shift+f** keyboard shortcut. (Filter image might be different in your new project!)
   
    ![](images/backlog_filter.png)
 
