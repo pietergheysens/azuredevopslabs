@@ -278,7 +278,7 @@ Planning meetings typically consist of two parts. In the first part, the team an
 
     ![](images/049.png)
 
-1. Select **People** from the **View options** dropdown.
+1. Select **People** from the **View options** dropdown. (In your project, select "Assigned To" from the view options which replaces the old "People" identifier)
 
     ![](images/050.png)
 
