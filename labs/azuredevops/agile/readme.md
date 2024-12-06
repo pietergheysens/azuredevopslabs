@@ -437,7 +437,7 @@ To maximize a team's ability to consistently deliver high quality software, Kanb
 
     ![](images/083.png)
 
-1. If you would like to review a more sophisticated board with many more work items, select the **Parts Unlimited Team** from the team dropdown.
+1. If you would like to review a more sophisticated board with many more work items, select the **Parts Unlimited Team** from the team dropdown (the name of the team is again the name of the project you are working in).
 
     ![](images/084.png)
 
