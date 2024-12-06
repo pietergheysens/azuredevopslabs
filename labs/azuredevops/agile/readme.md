@@ -331,16 +331,16 @@ To maximize a team's ability to consistently deliver high quality software, Kanb
 
     ![](images/061.png)
 
-1. You can apply style rules to change the color of cards on kanban boards and task boards. Styling rules make the cards with important information stand out. Select **Styles** tab. On the Styles tab, click Add Styling rule and set the Name to “High Priority”. Choose a Red Card color. This will color all cards red if they meet the rule criteria set below.
+1. You can apply style rules to change the color of cards on kanban boards and task boards. Styling rules make the cards with important information stand out. Select **Styles** tab. On the Styles tab, click Add Styling rule and set the Name to “High Priority”. Choose a Red Card color. This will color all cards red if they meet the rule criteria set below. Add a rule for **Priority = 1**.
     
     ![](images/styles_kanban.png)
 
-1. Add a rule for **Priority = 1**. This will set all cards with priority **1** to  red. You can add more clauses in the query if required. Open the work item **As a customer, I want to view new tutorials** and change priority to **1**
-    
     ![](images/styles_kanban2.png)
 
 1. Click **Save and close** to save the styling rule.
 
+1. This will set all cards with priority **1** to  red. You can add more clauses in the query if required. Open the work item **As a customer, I want to view new tutorials** and change priority to **1**
+    
 1. The backlogs with priority **1** is now red and very easy to identify.
    
     ![](images/styles_kanban3.png)
