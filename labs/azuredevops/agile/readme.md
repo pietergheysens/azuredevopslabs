@@ -290,7 +290,7 @@ Planning meetings typically consist of two parts. In the first part, the team an
 
     ![](images/052.png)
 
-1. On the **Styles** tab, click **Add Styling rule** and set the **Name** to **"Development"**. Choose a green **Card color**. This will color all cards green if they meet the rule criteria set below.
+1. On the **Styles** tab, click **Add Styling rule** and set the **Name** to **"Development"**. Choose a green **Card color**. This will color all cards green if they meet the rule criteria set below. Note that the menu to enter a new rule might be slightly different.
 
     ![](images/053.png)
 
