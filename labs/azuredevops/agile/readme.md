@@ -80,7 +80,7 @@ Work items play a prominent role in Azure DevOps. Whether describing work to be 
 
 This task is designed to illustrate a variety of ways you can create different kinds of work items, as well as to demonstrate the breadth of features available on the platform. As a result, these steps should not be viewed as prescriptive guidance for project management. The features are intended to be flexible enough to fit your process needs, so explore and experiment as you go.
 
-1. Navigate to **Overview \| Dashboards**.
+1. Navigate to **Overview \| Dashboards**. Select the Overview dashboard of the team with the same name as the name of your Team Project. (Screenshot might be a bit different in an updated version of the dashboard view)
 
     ![](images/011.png)
 
