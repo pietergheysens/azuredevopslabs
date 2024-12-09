@@ -18,11 +18,6 @@ In this lab, you will learn about the agile planning and portfolio management to
 <div class="bg-slap"><img src="./images/mslearn.png" class="img-icon-cloud" alt="MS teams" style="
     width: 48px; height: 48px;">Want additional learning? Check out the  <a href="https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/" target="_blank"><b><u> Agile approach to software development </u></b></a> module on Microsoft Learn.</div>
 
-<a name="Prerequisites"></a>
-### Prerequisites ###
-
-- This lab requires you to complete task 1 from the <a href="../prereq/">prerequisite</a> instructions. (No cloning needed for this lab, skip Task 2)
-
 <a name="Exercise1"></a>
 ## Exercise 1: Agile Project Management ##
 
