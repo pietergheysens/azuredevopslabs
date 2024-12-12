@@ -1,12 +1,3 @@
----
-title: Working with Pull Requests in Visual Studio Code and Azure DevOps
-layout: page
-sidebar: vsts
-permalink: /labs/azuredevops/pullrequests/
-folder: /labs/azuredevops/pullrequests/
-version: Lab version - 1.31.1
-updated: Last updated - 2/27/2019
----
 <div class="rw-ui-container"></div>
 <a name="Overview"></a>
 
@@ -22,8 +13,6 @@ It is required that you complete the [Git lab](../git) prior to taking this lab.
 - [Visual Studio Code](https://code.visualstudio.com/) with the C# extension installed.
 
 - [Azure Repos Extension](https://marketplace.visualstudio.com/items?itemName=argutec.argutec-azure-repos) for Visual Studio Code
-
-- This lab requires you to complete task 1 from the [prerequisite instructions](../prereq).
 
 - The [Git lab](../git) is required to be completed as a prerequisite for this lab.
 
