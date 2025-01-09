@@ -1,14 +1,3 @@
----
-title: Enabling Continuous Integration with Azure Pipelines
-layout: page
-sidebar: vsts
-permalink: /labs/azuredevops/continuousintegration/
-folder: /labs/azuredevops/continuousintegration/
-version: Lab version - 1.37.1
-updated: Last updated - 05/11/2020
-redirect_from: "/labs/vsts/continuousintegration/index.htm"
----
-<div class="rw-ui-container"></div>
 <a name="Overview"></a>
 
 ## Overview ##
@@ -19,11 +8,6 @@ In this lab, you will learn how to configure continuous integration (CI) and con
 <div class="bg-slap"><img src="./images/mslearn.png" class="img-icon-cloud" alt="MS teams" style="
     width: 48px; height: 48px;">Want additional learning? Check out the <a href="https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/" target="_blank"><b><u> Create a build pipeline with Azure Pipelines </u></b></a> module on Microsoft Learn.</div>
 
-
-<a name="Prerequisites"></a>
-### Prerequisites ###
-
-- This lab requires you to complete task 1 from the <a href="../prereq/">prerequisite</a> instructions.
 
 <a name="Exercise1"></a>
 ## Exercise 1: Introduction to Azure DevOps Build ##
