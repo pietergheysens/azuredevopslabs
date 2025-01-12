@@ -9,52 +9,7 @@ The following image will walk you through all the steps explained in this lab
  ![](images/YAML-pipeline-workflow.gif)
  
 <a name="Exercise1"></a>
-## Exercise 1: Configuring CI/CD Pipelines as Code with YAML in Azure DevOps ##
-
-<a name="Ex1Task1"></a>
-### Task 1: Creating Azure resources ###
-
-1. This lab requires a deployment of the Parts Unlimited project out to an Azure app service. To do this, you will need to spin up the necessary infrastructure. Log in to your Azure account at [https://portal.azure.com](https://portal.azure.com/).
-
-1. In the home page search for **"SQL"** and select **SQL Databases**
-   
-      ![](images/searchSQL.png)
-1. Click on **Create** in SQL data bases page
-
-    ![](images/clickcreatesql.png)
-
-1. Under **Resource group**, click **Create new**. Enter a Name of **“partsunlimited”** and click **OK**.
-     
-     ![](images/createrg.png)
-
-1. In Database details Enter a Database name of **“partsunlimited-yaml”** and click **Create new** to create a new SQL server.
-     
-    ![](images/dbname.png)
-
-1. Enter a globally unique server name, such as **“pul-yaml-johndoe”** and provide admin credentials, then click **OK**.
-    
-    ![](images/sqlserverdetails.png)
-
-1. In Database details  under **Compute + storage**, click on **Configure database**. Then select **Basic** Service tier and click **Apply**
-
-   ![](images/clickconfiguredb.png)
-
-   ![](images/basicdb.png)
-
-1. In Create SQL database page, click **Review + create**. Then click **Create**. It’ll take some time to complete, but you can move on to the next step while it works in the background.
-    
-    ![](images/reviewandcreate.png)
-
-1. In the home page search for **App Services** and select **App Services**
-    
-    ![](images/searchappservices.png)
-
-1. Click **Create** in App Services page 
-
-    ![](images/clickcreateapp.png)
-
-1. Under Project Details, select the same Subscription and Resource Group used for the database. For Name, enter a unique name, such as by using your name as part. Select the **ASP.NET 4.8 Runtime** stack. Click **Review + Create** and then **Create**
-    ![](images/createwebapp.png)
+## Exercise 1: Configuring CI Pipeline as Code with YAML in Azure DevOps ##
 
 <a name="Ex1Task2"></a>
 ### Task 2: Configuring the Azure App Service ###
