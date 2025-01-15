@@ -8,7 +8,7 @@ In this lab, you will learn about the exploratory testing and feedback managemen
 ## Exercise 1: Exploratory Testing ##
 
 <a name="Ex1Task1"></a>
-### Task 1: Installing the Chrome Extension ###
+### Task 1: Installing the Chrome Extension (If not done already!) ###
 
 1. Install **Google Chrome** from [http://google.com/chrome](http://google.com/chrome). The rest of this exercise will use Chrome as its browser. If you're already using Chrome, just open a new instance for the next set of steps.
 
@@ -47,7 +47,7 @@ In this lab, you will learn about the exploratory testing and feedback managemen
 <a name="Ex1Task2"></a>
 ### Task 2: Exploratory Testing with the Chrome Extension ###
 
-1. In **Visual Studio**, press **F5** to build and run the **Parts Unlimited** project locally.
+1. Open the PartsUnlimited website in your Chrome Browser: https://pule2eef5a940a.azurewebsites.net/
 
 1. To start an exploratory testing session, click the **Start session** button from the extension toolbar.
 
