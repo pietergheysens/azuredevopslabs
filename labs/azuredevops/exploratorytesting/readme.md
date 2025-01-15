@@ -1,24 +1,8 @@
----
-title: Exploratory Testing with Azure Test Plans
-layout: page
-sidebar: vsts
-permalink: /labs/azuredevops/exploratorytesting/
-folder: /labs/azuredevops/exploratorytesting/
-version: Lab version - 1.38.0
-updated: Last updated - 9/11/2019
-redirect_from: "/labs/vsts/exploratorytesting/index.htm"
----
-<div class="rw-ui-container"></div>
 <a name="Overview"></a>
 
 ## Overview ##
 
 In this lab, you will learn about the exploratory testing and feedback management capabilities provided in the Test & Feedback extension. You will learn about how exploratory testing (also called XT, or agile testing) has become a first-class experience in the toolset. This allows a tester to more flexibly test the underlying software without relying solely on formal test cases. You'll also learn about how you can manage the process of eliciting and managing the customer feedback lifecycle.
-
-<a name="Prerequisites"></a>
-### Prerequisites ###
-
-- This lab requires you to complete tasks 1 and 2 from the <a href="../prereq/">prerequisite</a> instructions.
 
 <a name="Exercise1"></a>
 ## Exercise 1: Exploratory Testing ##
