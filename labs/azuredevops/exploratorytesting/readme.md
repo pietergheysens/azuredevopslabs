@@ -34,13 +34,13 @@ In this lab, you will learn about the exploratory testing and feedback managemen
 
     ![](images/004.png)
 
-1. To open the extension, click the extension icon that will appear on the right of the address bar. Select the **Connection Settings** tab. Enter the URL of your Azure DevOps instance, such as "**https://dev.azure.com/MYTEAM**", as the **Server URL** and click **Next**.
+1. To open the extension, click the extension icon that will appear on the right of the address bar. Select the **Connection Settings** tab. Enter the URL of your Azure DevOps instance, such as "**https://dev.azure.com/<org-name>**", as the **Server URL** and click **Next**.
 
     ![](images/005.png)
 
 1. The extension can be used in two modes: **Connected** and **Standalone** mode. If you have Azure DevOps or Azure DevOps Server, select Connected mode. Standalone mode is for users who don't have either and want to use the extension to file bugs and share the report with their team.
 
-1. After connecting to Azure DevOps, you will need to select the team you want these efforts associated with. Select the **Parts Unlimited Team** under the **Parts Unlimited** project and click **Save** to continue.
+1. After connecting to Azure DevOps, you will need to select the team you want these efforts associated with. Select the **Parts Unlimited Team** under your project and click **Save** to continue.
 
     ![](images/006.png)
 
@@ -52,8 +52,6 @@ In this lab, you will learn about the exploratory testing and feedback managemen
 1. To start an exploratory testing session, click the **Start session** button from the extension toolbar.
 
     ![](images/007.png)
-
-1. Navigate to [http://localhost:5001](http://localhost:5001/).
 
 1. In search box enter **"jumper lead"** and press **Enter**.
 
