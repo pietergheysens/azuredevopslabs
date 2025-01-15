@@ -1,24 +1,8 @@
----
-title: Test Planning and Management with Azure Test Plans
-layout: page
-sidebar: vsts
-permalink: /labs/azuredevops/testmanagement/
-folder: /labs/azuredevops/testmanagement/
-version: Lab version - 15.8.2
-updated: Last updated - 9/6/2018
-redirect_from: "/labs/vsts/testmanagement/index.htm"
----
-<div class="rw-ui-container"></div>
 <a name="Overview"></a>
 
 ## Overview ##
 
 In this lab, you will learn how to use Azure DevOps to manage your project's testing lifecycle. This project will guide you through creating test plans designed to efficiently validate your software milestones. You will also create and execute manual tests that can be consistently reproduced over the course of each release.
-
-<a name="Prerequisites"></a>
-### Prerequisites ###
-
-- This lab requires you to complete tasks 1 and 2 from the <a href="../prereq/">prerequisite</a>  instructions.
 
 <a name="Exercise1"></a>
 ## Exercise 1: Managing Test Plans, Suites and Cases ##
