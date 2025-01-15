@@ -22,7 +22,7 @@ In this exercise, you will learn how to create and manage test plans, test suite
 
     ![](images/001.png)
 
-1. Select the suite of tests for the story **As a customer, I would like to store my credit card details securely**. This suite of tests focuses on that work item, which happens to be a feature. Note that the work item numbers will vary every time you generate demo data for a lab.
+1. Select the suite of tests for the story **As a customer, I would like to store my credit card details securely**. This suite of tests focuses on that work item, which happens to be a feature. Note that the work item numbers will be different in your lab.
 
     ![](images/002.png)
 
@@ -224,7 +224,7 @@ In this exercise, you will learn how to create a manual test plan and populate i
 
     ![](images/046.png)
 
-1. To open the extension, click the extension icon that will appear on the right of the address bar. Select the **Connection Settings** tab. Enter the URL of your Azure DevOps instance, such as "**https://MYTEAM.visualstudio.com**", as the **Server URL** and click **Next**.
+1. To open the extension, click the extension icon that will appear on the right of the address bar. Select the **Connection Settings** tab. Enter the URL of your Azure DevOps instance, such as "**https://dev.azure.com/<org-name>**", as the **Server URL** and click **Next**.
 
     ![](images/047.png)
 
@@ -331,13 +331,7 @@ In this exercise, you will learn how to create a manual test plan and populate i
 
     ![](images/060.png)
 
-1. The first step in the test is to open the project site. To do this, switch to the **Visual Studio** instance that has the **Parts Unlimited** solution loaded. From the **IIS Express** target dropdown, select **Browse With...**.
-
-    ![](images/061.png)
-
-1. Select **Google Chrome** and click **Browse**.
-
-    ![](images/062.png)
+1. The first step in the test is to open the PartsUnlimited Website. You can use this website for running your tests: https://pule2eef5a940a.azurewebsites.net/.
 
 1. If you're working on a large screen, it may be easier to resize the new window to fit next to the **Test Runner** window. Otherwise you can just switch back and forth.
 
